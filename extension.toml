@@ -1,0 +1,7 @@
+id = "metal-shading-language"
+name = "Metal Shading Language"
+version = "0.0.1"
+schema_version = 1
+authors = ["Jakub Vondra <you@example.com>"]
+description = "Metal Shading Language extension, based on cpp"
+repository = "https://github.com/kubo-von/zed-metal"
